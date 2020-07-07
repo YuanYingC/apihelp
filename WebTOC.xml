@@ -1,0 +1,333 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="1c46144b-1c61-4e41-afac-a67e9fe2ce24" Title="MaxSign_GTS.DataAccess" Url="html/48fe96a3-4a2c-4244-bb30-d0b65e44354d.htm">
+    <HelpTOCNode Id="b885b7da-edb5-4d07-89ff-53e17c08c327" Title="OptBasicSet Class" Url="html/d5d5767b-47e2-da86-e522-19503f76e12c.htm">
+      <HelpTOCNode Title="OptBasicSet Constructor " Url="html/ff89450e-7743-40bd-927c-9c0e0de11a6e.htm" />
+      <HelpTOCNode Id="1d5bce0e-a07f-4155-9d48-43072bd1d942" Title="OptBasicSet Methods" Url="html/41396496-833f-5da7-2dd7-560b8d1c6ef6.htm">
+        <HelpTOCNode Title="QueryInfo Method " Url="html/74bf52df-8f0d-6538-6b3b-7ac4b87bfbde.htm" />
+        <HelpTOCNode Title="QueryInfoEx Method " Url="html/c3d634e3-1d8d-343d-ffe7-a1dec62c64eb.htm" />
+        <HelpTOCNode Title="UpdateBatInfo Method " Url="html/2d994063-346a-494c-5ee6-6cb30f76732b.htm" />
+        <HelpTOCNode Title="UpdateInfo Method " Url="html/b18f6479-6f7d-bb57-6bf1-62ad9b35d302.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="a17dcb46-d05e-49e0-9305-bbe8a1c3210f" Title="OptBatch Class" Url="html/cfc26a97-88dc-dc9f-06ff-6d046811c783.htm">
+      <HelpTOCNode Title="OptBatch Constructor " Url="html/5d885d0d-3e3c-6c68-72ec-27e896ea1fd5.htm" />
+      <HelpTOCNode Id="95ed114f-b726-4fa6-81e2-2bb4c04e320e" Title="OptBatch Methods" Url="html/60195e1c-48bb-da02-0af9-7aa8c33045f6.htm">
+        <HelpTOCNode Title="DeleteInfo Method " Url="html/f35a6f71-e3f6-20d7-7764-5284fc4d1ea0.htm" />
+        <HelpTOCNode Title="DeleteUnionByBatch Method " Url="html/aa41b234-49ce-b68e-bdb0-d6e1a959fdcb.htm" />
+        <HelpTOCNode Title="DeleteUnionByUser Method " Url="html/fee052f4-573e-e95a-ccb5-6fc71eeca3f1.htm" />
+        <HelpTOCNode Title="InsertInfo Method " Url="html/bb140dd2-23da-fb2f-1667-1f1f12365a3f.htm" />
+        <HelpTOCNode Id="9da84bf5-f884-4b1d-9fce-875ffe7ef212" Title="QueryInfo Method " Url="html/3293e005-0619-6eba-0a36-16b035cbf9f4.htm">
+          <HelpTOCNode Title="QueryInfo Method " Url="html/69512d8b-39cd-1c51-37db-f6580da32df0.htm" />
+          <HelpTOCNode Title="QueryInfo Method (String)" Url="html/ac4fdfc0-951d-6de6-7c94-eb0d97beaf77.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="QueryInfoByMeter Method " Url="html/95321a86-db04-2db5-f6cc-709333a2fcc2.htm" />
+        <HelpTOCNode Id="86c09acb-89b1-411e-8a37-06a50f1d6b94" Title="QueryUnionInfo Method " Url="html/1dfcc0d6-103d-fd84-8877-35b07570ef83.htm">
+          <HelpTOCNode Title="QueryUnionInfo Method " Url="html/4ad3c379-6703-070a-04c4-e03d970fff41.htm" />
+          <HelpTOCNode Title="QueryUnionInfo Method (String)" Url="html/25cb78b5-1799-fdec-2df0-20e01864af27.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="UnionInsertInfo Method " Url="html/a2509bc2-0f46-3ac3-d37d-1d7d010364d9.htm" />
+        <HelpTOCNode Title="UpdateInfo Method " Url="html/89152114-6747-0f87-5c28-58cfc4684435.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="cee4a1d0-ece8-4871-bd0d-19a8fb6e3ced" Title="OptBatDetail Class" Url="html/db32c61a-14ea-0a87-84de-2be34d7e8e30.htm">
+      <HelpTOCNode Title="OptBatDetail Constructor " Url="html/2c890f1d-1eed-d6df-b616-b6c7d88afdbd.htm" />
+      <HelpTOCNode Id="01e39f5c-9d95-4ee5-b30b-f49b87c1cbe0" Title="OptBatDetail Methods" Url="html/b40ae503-6beb-ef53-b118-000382d92158.htm">
+        <HelpTOCNode Id="dc906312-32f0-4422-84a6-655d3876be6c" Title="DeleteInfo Method " Url="html/574815b5-e3bb-21ad-a8f7-34096a1cfa6d.htm">
+          <HelpTOCNode Title="DeleteInfo Method (List(String))" Url="html/c9973c17-ca6f-51b1-9474-ab737a69cf7d.htm" />
+          <HelpTOCNode Title="DeleteInfo Method (String)" Url="html/2c0df052-5919-470c-2375-16b0527b3d2e.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="InsertInfo Method " Url="html/ecf4491f-1cdc-af4d-e13d-6cd582ae6359.htm" />
+        <HelpTOCNode Title="QueryInfo Method " Url="html/1d7f8334-e9b9-4e55-7333-08d2a6cfa41b.htm" />
+        <HelpTOCNode Title="QueryInfoById Method " Url="html/5087532f-58fd-d962-965d-25572b17e7d9.htm" />
+        <HelpTOCNode Title="UpdateBatch Method " Url="html/f3c5b6d8-67af-0c91-a99b-c2f3af7d74c4.htm" />
+        <HelpTOCNode Title="UpdateIndex Method " Url="html/609c1d53-31d9-dd92-d872-3014e651f211.htm" />
+        <HelpTOCNode Title="UpdateInfo Method " Url="html/51ab3e26-4eb9-08ff-4302-556cff885ec2.htm" />
+        <HelpTOCNode Title="UpdateSelected Method " Url="html/6ff20b1f-cd55-808f-d6c3-2350bf3a290f.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="f5fed961-c1a4-4d0c-8a64-2a448f939e52" Title="OptFunction Class" Url="html/cd986c08-b269-9280-e3ca-471e55b2bd07.htm">
+      <HelpTOCNode Title="OptFunction Constructor " Url="html/1f0b88b8-1a20-585a-d2e5-d291ba612f4e.htm" />
+      <HelpTOCNode Id="09fdeec7-3bf0-4a7f-a24b-bbc61ed6b307" Title="OptFunction Methods" Url="html/aee649af-8514-2420-4d53-acd2f59f13e4.htm">
+        <HelpTOCNode Title="DeleteInfo Method " Url="html/267b9455-b6d0-8ede-7d9b-ce74a8c0042e.htm" />
+        <HelpTOCNode Title="InsertInfo Method " Url="html/82f7169f-014e-e254-8451-13929e955d68.htm" />
+        <HelpTOCNode Id="f48f1420-e9a8-4bc7-ad32-8c22a052436b" Title="QueryInfo Method " Url="html/5f8dbca8-2235-f83b-ab3b-ed8abaf9b535.htm">
+          <HelpTOCNode Title="QueryInfo Method " Url="html/ce160119-9aaa-4de1-4307-a5c2d294b8b1.htm" />
+          <HelpTOCNode Title="QueryInfo Method (String)" Url="html/8c2db1cd-cb6e-9bbf-7dbd-0090f77a17ba.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="UpdateInfo Method " Url="html/ed033939-fe01-ce17-32b2-f6f59f6f7556.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="9d24c512-b8e0-4c2b-8452-04509671f1f9" Title="OptMeter Class" Url="html/22adc755-e376-da0d-b0a2-47a49a3c7bf7.htm">
+      <HelpTOCNode Title="OptMeter Constructor " Url="html/6d18545a-7de8-b0be-5425-49e5ab67c4b7.htm" />
+      <HelpTOCNode Id="c74981d3-0946-4a0d-a5f3-344d79748bc8" Title="OptMeter Methods" Url="html/2d5e572c-a0cc-91b0-1af5-34821a322df2.htm">
+        <HelpTOCNode Title="InsertInfo Method " Url="html/4d87a754-486c-dbac-a4ad-e34d0d62749f.htm" />
+        <HelpTOCNode Id="35655732-e247-40e5-a277-3bceadb421b2" Title="QueryInfo Method " Url="html/c6f861cb-4129-efad-0779-2edac27c331b.htm">
+          <HelpTOCNode Title="QueryInfo Method " Url="html/dfd2f909-05ff-c26a-a69b-1d7a7a850271.htm" />
+          <HelpTOCNode Title="QueryInfo Method (String)" Url="html/a573705d-0012-e832-689c-c925d926c7ab.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="QueryInfoByFuncId Method " Url="html/ce21d2e3-6cb0-da46-026c-41c26ba68f30.htm" />
+        <HelpTOCNode Title="QueryInfoWithFunName Method " Url="html/3124a6be-b9a9-4af9-264e-d67fb951c411.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="dd15a7a7-e263-41f4-9252-19ca3df25cd9" Title="OptMobile Class" Url="html/f67390fd-5575-89f9-cf7f-0b477f69be95.htm">
+      <HelpTOCNode Title="OptMobile Constructor " Url="html/aef8d84d-e543-a6a3-7ad9-c4054b7d5c3f.htm" />
+      <HelpTOCNode Id="a7aff8b5-0fae-4e5b-ab92-343b511abf17" Title="OptMobile Methods" Url="html/019903a7-459b-597a-1104-26bc09b96279.htm">
+        <HelpTOCNode Title="DeleteInfo Method " Url="html/e7de72a7-ba11-67ba-1f60-b90a79185273.htm" />
+        <HelpTOCNode Title="InsertInfo Method " Url="html/cd8bf6fe-2bb6-407e-c6dd-bc085f751329.htm" />
+        <HelpTOCNode Title="QueryBingNum Method " Url="html/bdae7cf0-9a7e-4f0b-1e2f-816d8aa9a4e1.htm" />
+        <HelpTOCNode Id="4ed71f71-a8ca-4c6b-a9ce-3e8c55da63b4" Title="QueryInfo Method " Url="html/33e0a794-c8b7-0c48-bac4-08acc7d3c4b8.htm">
+          <HelpTOCNode Title="QueryInfo Method " Url="html/b807073c-99ab-f2f8-6aba-2cab7603a223.htm" />
+          <HelpTOCNode Title="QueryInfo Method (String)" Url="html/4933e13b-f61e-23f7-903d-a2c96abc3043.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="QueryMobileIsExist Method " Url="html/7db1ff8e-4e95-6d6d-8d4d-bfe5b270bb4f.htm" />
+        <HelpTOCNode Title="UpdateInfo Method " Url="html/57e72ae1-de75-8a2d-63ad-72e164be42fe.htm" />
+        <HelpTOCNode Title="UpdateName Method " Url="html/0f60afc3-feb4-898f-cc41-6984257cc05f.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="a46519b4-6e16-4a92-a08f-a9ca34375999" Title="OptOfficialTemplate Class" Url="html/eb7421f9-5c95-fbab-55c4-dd7cdf740c7e.htm">
+      <HelpTOCNode Title="OptOfficialTemplate Constructor " Url="html/5c4b0395-1a5b-5c76-f0e4-97b2eeaf0669.htm" />
+      <HelpTOCNode Id="b9b97905-db92-487c-a981-42c9b0f8bda7" Title="OptOfficialTemplate Methods" Url="html/9e498dc2-8cd9-6fc0-96d1-9cc473cd689c.htm">
+        <HelpTOCNode Title="DeleteInfo Method " Url="html/7f3c815a-7ef6-4f04-dbe3-fd951eb2d976.htm" />
+        <HelpTOCNode Title="InsertInfo Method " Url="html/b9d3c4d0-cd26-4e47-3741-0340c7b837ad.htm" />
+        <HelpTOCNode Id="64e3c1a0-a1bd-4756-9d7e-c4da901519ea" Title="QueryInfo Method " Url="html/0d206eaf-9e39-1e1d-5161-a9650ea93de2.htm">
+          <HelpTOCNode Title="QueryInfo Method " Url="html/a18c4cb1-5ff7-bcff-63eb-88a86c8e2a98.htm" />
+          <HelpTOCNode Title="QueryInfo Method (String)" Url="html/1763bdc5-ffae-46ee-751e-34864f7e1aff.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="QueryInfoByMeter Method " Url="html/7eedf4f8-aac6-602c-cc8c-850b94da4f0b.htm" />
+        <HelpTOCNode Title="UpdateInfo Method " Url="html/620a1fe9-d201-3dc2-59be-e75a9c738230.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="63f8148f-be69-4cd3-9446-e02dbfb1e8e9" Title="OptResult Class" Url="html/6eaf46e1-62ca-704c-088a-08e6c478c156.htm">
+      <HelpTOCNode Title="OptResult Constructor " Url="html/c649427b-49a3-1043-4cb4-b04cd639b202.htm" />
+      <HelpTOCNode Id="2893bf3d-9152-422c-9a28-8ed5d464e337" Title="OptResult Methods" Url="html/2a308a0c-80e8-951c-4b00-aaec40338edd.htm">
+        <HelpTOCNode Title="DeleteInfo Method " Url="html/2a1b44a3-75ba-be92-1ee2-a07ed2da4f5d.htm" />
+        <HelpTOCNode Title="InsertInfo Method " Url="html/57abcfd1-4223-5182-c866-2538f4da802c.htm" />
+        <HelpTOCNode Id="f0d58471-5d86-46f3-bad8-dbdfaef9da5c" Title="QueryInfo Method " Url="html/70fe4537-e172-4633-7297-f268957a247c.htm">
+          <HelpTOCNode Title="QueryInfo Method " Url="html/e1c3b6a1-ffdb-7675-f227-eab0112d88e9.htm" />
+          <HelpTOCNode Title="QueryInfo Method (String)" Url="html/8d6fa58d-1b2d-58e6-a0ad-bf7999829a35.htm" />
+          <HelpTOCNode Title="QueryInfo Method (Int32, String, Boolean)" Url="html/419c8897-03d8-2ffb-9a89-192446219667.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="UpdateFinish Method " Url="html/9507ba52-c539-a9ef-4ca7-fbde11646cca.htm" />
+        <HelpTOCNode Title="UpdateInfo Method " Url="html/c3c915da-20c8-6463-d7e7-f22ed62b8455.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="503015bb-00ea-41fd-9d3e-e1814fefb982" Title="OptResultDetail Class" Url="html/2faa81b9-fcb3-3fae-85b7-e3277ced0bb4.htm">
+      <HelpTOCNode Title="OptResultDetail Constructor " Url="html/4154d76f-a940-9b1c-bfb8-a1b08064cd86.htm" />
+      <HelpTOCNode Id="f213b065-f6c3-47ae-a457-c127b5e4c8dd" Title="OptResultDetail Methods" Url="html/26f00e8e-56c3-55b9-3683-e1fadc6cb3ae.htm">
+        <HelpTOCNode Title="ChangeAllTestingResult Method " Url="html/38345874-a0ca-206d-cef8-93b257af3e3e.htm" />
+        <HelpTOCNode Title="DeleteTestResult Method " Url="html/9eb268ed-55f2-65f5-96f0-488a5851822d.htm" />
+        <HelpTOCNode Title="InsertInfo Method " Url="html/21d62c31-6ebf-2411-30b9-c6311b383866.htm" />
+        <HelpTOCNode Id="6de1cf65-1444-4db6-b729-267e28620dbd" Title="QueryInfo Method " Url="html/c93a7c76-c452-e990-7a80-112abd3ccbe8.htm">
+          <HelpTOCNode Title="QueryInfo Method " Url="html/7f7437ef-99ce-096d-7a25-0fa7bc53893a.htm" />
+          <HelpTOCNode Title="QueryInfo Method (String)" Url="html/3e3d0e67-08b3-e298-bed6-71477777f43b.htm" />
+          <HelpTOCNode Title="QueryInfo Method (String, String)" Url="html/a7fc1b09-fd46-c08d-80e0-682c4a6ba87d.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="QueryInfoByUser Method " Url="html/b95ce165-6a7e-46c9-ee1a-584b38653fda.htm" />
+        <HelpTOCNode Title="QueryInfoByUserResultId Method " Url="html/b5fa5a46-6540-264e-b08e-ff93fb4ece64.htm" />
+        <HelpTOCNode Title="UpdateStatus Method " Url="html/f2ed27a4-864d-35fc-1d91-e4091ca16d99.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="0a57b9c0-43f1-4c62-8dec-dd38c885aba8" Title="OptTemp Class" Url="html/267df9a4-adf8-6957-5315-ad02456011a9.htm">
+      <HelpTOCNode Title="OptTemp Constructor " Url="html/5ae15280-120a-8984-4bff-bfda247d56bc.htm" />
+      <HelpTOCNode Id="4e17e611-ec3f-4bb4-a6bd-acb2584dc5dd" Title="OptTemp Methods" Url="html/3e973748-da3d-1d71-079e-4216ab1bf7a7.htm">
+        <HelpTOCNode Title="DeleteAll Method " Url="html/a19fae2f-f588-c972-f403-24843a010cc2.htm" />
+        <HelpTOCNode Title="DeleteInfo Method " Url="html/2dbedcc6-5e8d-e115-d764-e66620ac3426.htm" />
+        <HelpTOCNode Title="InsertInfo Method " Url="html/024b9f2b-127c-2fa9-9867-99fd8470e399.htm" />
+        <HelpTOCNode Id="1d8b7dfd-de47-4ded-9c77-99f4977843c5" Title="QueryInfo Method " Url="html/3b0ef242-c81c-cdf2-9d36-5032dc58e1a4.htm">
+          <HelpTOCNode Title="QueryInfo Method " Url="html/d36d1bc0-6607-df94-77c2-fb8e85c61902.htm" />
+          <HelpTOCNode Title="QueryInfo Method (String)" Url="html/6f452f04-c0d5-85cc-1ae3-f42be9c3a15b.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="UpdateInfo Method " Url="html/9e8d5435-ff1a-34de-215b-9918f9c91717.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="1106786c-cac7-4128-8df2-d1bc0e074f24" Title="OptUser Class" Url="html/f21129a8-ebac-f4e7-3afa-95f493abb731.htm">
+      <HelpTOCNode Title="OptUser Constructor " Url="html/f145ed9e-a0af-1a62-acad-e89bd30d9abc.htm" />
+      <HelpTOCNode Id="dc065623-7183-44ef-94fa-9c3d3326f891" Title="OptUser Methods" Url="html/76fbb254-7f9d-1167-c97e-ad90c493aed5.htm">
+        <HelpTOCNode Title="DeleteInfo Method " Url="html/9d8be9e0-b734-49f0-68eb-bb4af41b8303.htm" />
+        <HelpTOCNode Title="InsertInfo Method " Url="html/dde8b4a0-2e39-30ba-7ac9-2a779ef8576e.htm" />
+        <HelpTOCNode Title="Login Method " Url="html/5af8fdaf-0228-2b16-add1-160af984fc83.htm" />
+        <HelpTOCNode Title="QueryAdminInfo Method " Url="html/d86945aa-e4fb-3d28-8a14-4a33be472c60.htm" />
+        <HelpTOCNode Id="862f79a3-4444-4acd-8c32-d642a907949d" Title="QueryInfo Method " Url="html/9c005925-6083-e336-cffe-a27dfbcf90a4.htm">
+          <HelpTOCNode Title="QueryInfo Method " Url="html/2c5b19de-955e-9f62-96fe-8ecbc8b1aeef.htm" />
+          <HelpTOCNode Title="QueryInfo Method (String)" Url="html/4f9d55ae-c9f0-4ac5-ec91-1268ea6a4080.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="UpdateInfo Method " Url="html/392566d3-b2f5-0edc-fa0f-e0db6702ff45.htm" />
+        <HelpTOCNode Title="UpdatePassword Method " Url="html/274befcf-1fae-2f9a-4d0b-0a3a99e42cb0.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="38461bad-dc33-45ef-9518-f1c57b41de6a" Title="SQLiteHelper Class" Url="html/8cbfeb9d-7fce-6fcb-b6e6-2dead73c5757.htm">
+      <HelpTOCNode Title="SQLiteHelper Constructor " Url="html/f1e9514c-9953-8063-c4b3-d69f7442a2b0.htm" />
+      <HelpTOCNode Id="30f437ab-daca-4c90-b57d-558f5d375834" Title="SQLiteHelper Properties" Url="html/818221a8-6b93-bfa0-a990-0d6cdd69f3ac.htm">
+        <HelpTOCNode Title="InstanceCon Property " Url="html/518a92ba-9155-19af-6ef5-12bfe64114e1.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="239e592a-0af3-4f4b-aa30-7393b14f14a9" Title="SQLiteHelper Methods" Url="html/8f259480-2e17-f114-f5ae-500d6083ee46.htm">
+        <HelpTOCNode Title="Close Method " Url="html/c2ae33cb-1f36-337d-5f24-c3d7a68ca3c2.htm" />
+        <HelpTOCNode Title="Dispose Method " Url="html/4c443551-ab75-2c49-a46f-fcf8cf37ef59.htm" />
+        <HelpTOCNode Id="fdef80b7-e382-44d5-a9fb-1eb1ac638784" Title="ExecuteDataSet Method " Url="html/c4a80b40-47af-5caf-d45a-d7f55e37f896.htm">
+          <HelpTOCNode Title="ExecuteDataSet Method (SQLiteCommand)" Url="html/c9d0dd9b-936d-45e4-544a-603bb4d78094.htm" />
+          <HelpTOCNode Title="ExecuteDataSet Method (String, CommandType)" Url="html/d45be981-3df2-9634-adc4-53fe9150f0e2.htm" />
+          <HelpTOCNode Title="ExecuteDataSet Method (String, CommandType, SQLiteParameter[])" Url="html/5fae2033-03a3-f8a4-919b-c72ea48dc1e5.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="ExecuteDataTable Method " Url="html/562cf64c-a7fa-3be7-ed76-6d0847338de8.htm" />
+        <HelpTOCNode Id="cee941b7-7af1-4b6a-884e-7b463a7d9c5f" Title="ExecuteNonQuery Method " Url="html/b1e16a6e-b6e0-0a09-074a-e7e9ffaf8ae2.htm">
+          <HelpTOCNode Title="ExecuteNonQuery Method (SQLiteCommand)" Url="html/5beb3d27-324d-a2a7-8ac3-c6eb35b7cdc8.htm" />
+          <HelpTOCNode Title="ExecuteNonQuery Method (SQLiteCommand[])" Url="html/0e8becd5-ed45-ac19-9eb5-38b141cf53c7.htm" />
+          <HelpTOCNode Title="ExecuteNonQuery Method (List(String), CommandType)" Url="html/07b612b3-bbf6-121e-a21f-b7084483692f.htm" />
+          <HelpTOCNode Title="ExecuteNonQuery Method (String, CommandType)" Url="html/65409ddc-5cb0-711d-3c0f-e2b26309f77a.htm" />
+          <HelpTOCNode Title="ExecuteNonQuery Method (String, CommandType, SQLiteParameter[])" Url="html/24ec3ae3-b600-2e91-0dc8-69df3c3ccda7.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="ExecuteNonQueryNoTrans Method " Url="html/2d389cf5-7be9-bee7-c513-053be45f38f3.htm" />
+        <HelpTOCNode Id="ba79d2b3-26dd-40a1-baf8-b6200fdc4dfd" Title="ExecuteReader Method " Url="html/46354fc2-5be7-fb9f-df3c-3d839d7fcc74.htm">
+          <HelpTOCNode Title="ExecuteReader Method (SQLiteCommand)" Url="html/1897c325-c52d-44cc-1357-6e4a67694e09.htm" />
+          <HelpTOCNode Title="ExecuteReader Method (String, CommandType)" Url="html/ede7026b-4f98-6fa7-b3c7-20518e7b3118.htm" />
+          <HelpTOCNode Title="ExecuteReader Method (String, CommandType, SQLiteParameter[])" Url="html/cecadca2-f57a-810a-b8b4-e8a5cb840450.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="9d02eb41-eea5-4c40-b305-4a8e778080ac" Title="ExecuteScalar Method " Url="html/bdeb1d9d-eb7b-bb64-e905-9df633f9aea2.htm">
+          <HelpTOCNode Title="ExecuteScalar Method (SQLiteCommand)" Url="html/b7fa5497-50a9-249c-6aa3-7b76bdc27908.htm" />
+          <HelpTOCNode Title="ExecuteScalar Method (String, CommandType)" Url="html/3ea84275-bf05-c0b0-571a-eab2e0ff0910.htm" />
+          <HelpTOCNode Title="ExecuteScalar Method (String, CommandType, SQLiteParameter[])" Url="html/0420a1e9-3418-81f9-d594-8eff180a278e.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="SelectPaging Method " Url="html/8ec38387-b787-e57b-0b31-deaa5dcc8736.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="2012f926-bc8c-49b7-9e39-d0936f1669be" Title="SQLiteHelper Fields" Url="html/da0ad043-0751-ed00-407d-b9af195e9c26.htm">
+        <HelpTOCNode Title="connectionString Field" Url="html/8f5530e8-9248-6856-a58b-7703cca76f55.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="fe337530-9796-4225-8be2-ce2aebe873a4" Title="TBasicData Class" Url="html/c46d89cd-9261-bf45-e9cd-9c662ca43080.htm">
+      <HelpTOCNode Title="TBasicData Constructor " Url="html/f009fc2c-1f5e-6773-faac-be48dbc0a919.htm" />
+      <HelpTOCNode Title="TBasicData Methods" Url="html/f0550532-0005-e3d7-9110-4fe577582db1.htm" />
+      <HelpTOCNode Id="4e3a33d3-67ff-49c2-8aac-2cd6abff2ea7" Title="TBasicData Fields" Url="html/80adfbd4-6b79-f0a0-987d-64e91791d1b0.htm">
+        <HelpTOCNode Title="CanSet Field" Url="html/7f5be7cc-4f27-00a6-a1b1-0a359c4d24ed.htm" />
+        <HelpTOCNode Title="FunctionID Field" Url="html/3c5c5e8e-395d-ace2-ff1b-3add61841fb1.htm" />
+        <HelpTOCNode Title="FunctionName Field" Url="html/ad812d2c-dc8c-e6a2-fb94-328e7c9f46c2.htm" />
+        <HelpTOCNode Title="Id Field" Url="html/b2d6a7cd-9183-7a5d-0b64-a91458949b63.htm" />
+        <HelpTOCNode Title="Index Field" Url="html/fb880bdc-6692-4f9f-496f-46c139eddc6b.htm" />
+        <HelpTOCNode Title="IsSelected Field" Url="html/a2577cad-980f-87a5-f86c-0ef279d20f1d.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="598ad9ee-ad55-44ea-b274-6fd55c985add" Title="TBatchData Structure" Url="html/c423c9bc-d539-7007-e6ef-f49546eb3b5a.htm">
+      <HelpTOCNode Title="TBatchData Methods" Url="html/e6568c15-097a-43da-3f9a-a406502d83ef.htm" />
+      <HelpTOCNode Id="ab5bab1e-f6f9-4929-a221-e85a0db33b2a" Title="TBatchData Fields" Url="html/ff047191-db91-ba89-534c-9d17bf4733d1.htm">
+        <HelpTOCNode Title="CreateTime Field" Url="html/005ad605-2b3d-2155-29d1-0dce27cbf673.htm" />
+        <HelpTOCNode Title="Id Field" Url="html/50900d87-744e-9151-8c4a-faa0d3854db6.htm" />
+        <HelpTOCNode Title="MeterID Field" Url="html/22dbce6a-d153-aee8-8715-de233a4f8293.htm" />
+        <HelpTOCNode Title="Name Field" Url="html/73310fdf-4a15-f743-5c77-f03a0f43315c.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="8758a643-63da-42b9-9d5b-201218a03627" Title="TBatchDetail Structure" Url="html/26242578-b9d9-66d4-e4d5-9de96fcb1e7e.htm">
+      <HelpTOCNode Title="TBatchDetail Methods" Url="html/b6c4234f-24b2-db1e-e5ce-3fc6054b10f2.htm" />
+      <HelpTOCNode Id="a31c2249-8fe9-468e-ad38-2c2d5b997469" Title="TBatchDetail Fields" Url="html/e109ce8d-9fe6-0144-7c97-b3c33d0866e2.htm">
+        <HelpTOCNode Title="BatchID Field" Url="html/404d44f1-0507-f313-17dd-c8c7372622db.htm" />
+        <HelpTOCNode Title="Content Field" Url="html/a36974fc-d264-0a18-9799-84c5240b491e.htm" />
+        <HelpTOCNode Title="CreateTime Field" Url="html/d63e596b-456a-6ac4-5436-00e56a6077c0.htm" />
+        <HelpTOCNode Title="FunctionID Field" Url="html/cf4515ce-3749-8af7-d835-843d8acc5064.htm" />
+        <HelpTOCNode Title="Id Field" Url="html/e2cebf9c-b87f-12ef-fed9-48ad1f8d2f06.htm" />
+        <HelpTOCNode Title="IsSelected Field" Url="html/2250726c-5650-3494-8b8f-6685191ff929.htm" />
+        <HelpTOCNode Title="MeterID Field" Url="html/5dbe25a6-8217-c326-7988-926b1725c271.htm" />
+        <HelpTOCNode Title="Name Field" Url="html/b9ba1031-c020-e01d-cce7-38c8c92da2d2.htm" />
+        <HelpTOCNode Title="OfficialID Field" Url="html/01eda381-f9c5-83ab-9cc7-f02c7d521b06.htm" />
+        <HelpTOCNode Title="Version Field" Url="html/52b7b6fd-43d8-9d5f-bdd2-23554add840b.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="2a50f863-930b-4017-b04c-22b25267c64b" Title="TBatchUnionData Structure" Url="html/6cdf7fab-8f86-188a-096a-258c9cf69331.htm">
+      <HelpTOCNode Title="TBatchUnionData Methods" Url="html/395c6ca4-1d83-eecc-52e0-fa7d23b1ee20.htm" />
+      <HelpTOCNode Id="b9d74e38-147f-4182-b3a2-3aef0299ba3e" Title="TBatchUnionData Fields" Url="html/33527c85-66da-0ece-cd5c-dcaa001c60e7.htm">
+        <HelpTOCNode Title="CreateTime Field" Url="html/14951a63-4a0f-7e96-882c-15a892dfd181.htm" />
+        <HelpTOCNode Title="FunctionID Field" Url="html/1bdeddb6-e980-e3ee-6a6b-16eb0565d8f9.htm" />
+        <HelpTOCNode Title="Id Field" Url="html/07177b80-9344-e646-f8f7-e265af144f16.htm" />
+        <HelpTOCNode Title="Name Field" Url="html/dda58b35-dc9b-6103-9f97-5aac8ac45203.htm" />
+        <HelpTOCNode Title="Path Field" Url="html/0cfdd9fe-8dda-f3b6-7f8d-570e9eaf5736.htm" />
+        <HelpTOCNode Title="TemplateName Field" Url="html/392593f4-a2b8-d141-27bf-b2aed9becd35.htm" />
+        <HelpTOCNode Title="TemplatePath Field" Url="html/91300818-5a18-ff93-8b6d-10dc88343915.htm" />
+        <HelpTOCNode Title="TemplateTime Field" Url="html/41d7efbb-3bd6-8aed-0a10-e582472e8a41.htm" />
+        <HelpTOCNode Title="TemplateVersion Field" Url="html/45b89ab3-fa47-133b-ae6d-c1662401e40e.htm" />
+        <HelpTOCNode Title="UserID Field" Url="html/dcd2c472-df65-d1b4-5fff-ebe8d781f853.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="ecf9578b-05b7-4d02-ad1d-ea4d8475a7df" Title="TFunctionData Structure" Url="html/d0af0b4d-805f-8969-337f-66b96bb38039.htm">
+      <HelpTOCNode Title="TFunctionData Methods" Url="html/84c26b5b-35db-2676-c25f-cc75ab1cb1a1.htm" />
+      <HelpTOCNode Id="982efd1c-0d14-436e-bbdc-b44af041e0ef" Title="TFunctionData Fields" Url="html/c92cf8c4-3dc8-266d-c4a6-c5a22a7bb826.htm">
+        <HelpTOCNode Title="Id Field" Url="html/3549f4b8-8e55-2e11-2ca4-83126422736d.htm" />
+        <HelpTOCNode Title="IsFinished Field" Url="html/ba260855-ec99-5612-2211-5657717c8a44.htm" />
+        <HelpTOCNode Title="Name Field" Url="html/0811db49-3cb0-5fbd-724f-05959b6528c0.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="6ad45ee0-357f-404b-a832-6a92ef05a56e" Title="TMeter Class" Url="html/ee66e421-1ff7-7992-38ac-f84c3d0b5590.htm">
+      <HelpTOCNode Title="TMeter Constructor " Url="html/d8193261-3e6c-838f-0286-bcf9f636c7d1.htm" />
+      <HelpTOCNode Title="TMeter Methods" Url="html/5b2a8f45-d69e-eae0-5c2c-e40eaeaed871.htm" />
+      <HelpTOCNode Id="79b43767-f14c-479c-b9de-c3eccc3657b9" Title="TMeter Fields" Url="html/46c3973a-35a7-78b7-f23d-37670cf82dd2.htm">
+        <HelpTOCNode Title="FunctionId Field" Url="html/b68211d6-c120-7c33-3b48-7932f9eae136.htm" />
+        <HelpTOCNode Title="FunctionName Field" Url="html/4a5f79c0-cc0d-d3af-6df4-56c9694d3527.htm" />
+        <HelpTOCNode Title="Id Field" Url="html/07428c1a-9c92-abd2-3cdb-b0aef3b21558.htm" />
+        <HelpTOCNode Title="Name Field" Url="html/c08b3c98-8389-be64-c815-538b79c1a61a.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="1858f30b-67e6-477e-ba3f-2cf4664e87a7" Title="TMobile Class" Url="html/8d5af670-2592-1bd5-fb1e-e6781c0b58d5.htm">
+      <HelpTOCNode Title="TMobile Constructor " Url="html/9dcdb22c-ed21-0268-d920-d8df72a45098.htm" />
+      <HelpTOCNode Title="TMobile Methods" Url="html/814c4b0e-32dc-0990-d4b5-8212aeba6e87.htm" />
+      <HelpTOCNode Id="7087136c-bd59-4a37-8e48-95dc45d647cc" Title="TMobile Fields" Url="html/7f26b5a6-e72e-112a-a86d-ed0589e25e08.htm">
+        <HelpTOCNode Title="AesIv Field" Url="html/8fa4ca41-7e08-b9b0-1ea6-9ac7bf68b580.htm" />
+        <HelpTOCNode Title="AesKey Field" Url="html/461d40f2-b6f8-1520-5d1a-e0bdb451c7d9.htm" />
+        <HelpTOCNode Title="Id Field" Url="html/326d0c8d-6641-492e-8d1f-8fdea9255486.htm" />
+        <HelpTOCNode Title="MobileID Field" Url="html/ab951a67-0046-644c-82c5-53878b6e9a41.htm" />
+        <HelpTOCNode Title="MobileModel Field" Url="html/894c39e7-d1a3-7494-e37b-80b75a7d18b8.htm" />
+        <HelpTOCNode Title="MobileName Field" Url="html/2130da5e-59cd-7bda-9412-5707685984f9.htm" />
+        <HelpTOCNode Title="RequstID Field" Url="html/b596cb72-8bfd-059e-651f-e3fcbdaed1ca.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="aec05237-718b-4c9c-82a2-d999cf503369" Title="TOfficialTemplateData Structure" Url="html/40ed0e14-045b-cc2f-e829-ce5f6edce0b6.htm">
+      <HelpTOCNode Title="TOfficialTemplateData Methods" Url="html/a1f249f2-792d-a4d4-9335-9a219d3d2e58.htm" />
+      <HelpTOCNode Id="f7ec8869-7b6b-4ea4-b188-e58d2469e6d9" Title="TOfficialTemplateData Fields" Url="html/fdba35fd-0827-df12-2367-e58a0a0a4448.htm">
+        <HelpTOCNode Title="Content Field" Url="html/a9ed8584-2db5-e37e-1161-241b3911d68b.htm" />
+        <HelpTOCNode Title="FunctionID Field" Url="html/4d5ab526-40cd-5c83-788e-e3ed757792b9.htm" />
+        <HelpTOCNode Title="Id Field" Url="html/e61d661a-e37d-98c5-383d-d537c9932c0e.htm" />
+        <HelpTOCNode Title="MeterID Field" Url="html/a47a3ebd-2514-3a70-a8ab-f7fc8e77beb7.htm" />
+        <HelpTOCNode Title="Name Field" Url="html/a93ee1e9-9222-63e1-7690-0d60bdc41c49.htm" />
+        <HelpTOCNode Title="Version Field" Url="html/3c8d6034-c964-f2c8-6125-c67b87277fc9.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="755fe49c-ef73-4d53-a194-e1f15527ca3b" Title="TResultData Structure" Url="html/90264565-9b8b-d284-bf1b-258927458f87.htm">
+      <HelpTOCNode Title="TResultData Methods" Url="html/6a71a972-9114-f027-ef45-e8f8d63b8957.htm" />
+      <HelpTOCNode Id="07c0c595-b66c-40ba-a519-281110c785af" Title="TResultData Fields" Url="html/a481b6a9-902d-feff-8f0e-c8f023ab83d1.htm">
+        <HelpTOCNode Title="BatId Field" Url="html/8677026f-d0cf-1048-fa9a-48b677a82a22.htm" />
+        <HelpTOCNode Title="CreateTime Field" Url="html/c4c280f3-1c36-cb6c-cf18-fcdbab1bf1ba.htm" />
+        <HelpTOCNode Title="Id Field" Url="html/28979d6d-1402-ef4b-b679-3f02763c731a.htm" />
+        <HelpTOCNode Title="Instrument Field" Url="html/3b3267bd-6bd4-d05e-58f0-f51cbaaf7075.htm" />
+        <HelpTOCNode Title="MeterID Field" Url="html/5e8d423b-5a69-3496-25df-5d08802b76f4.htm" />
+        <HelpTOCNode Title="Name Field" Url="html/834b1cb4-391d-39b3-002f-7ff79aa29e48.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="dc7fb336-ec42-41b5-a823-aee65662663c" Title="TResultDetailData Class" Url="html/858172bd-8517-5501-0d27-32014b140bae.htm">
+      <HelpTOCNode Title="TResultDetailData Constructor " Url="html/d417623f-6b28-91e5-be18-72af5033c2f2.htm" />
+      <HelpTOCNode Title="TResultDetailData Methods" Url="html/6b8615ac-1697-eac8-8987-c44ac6cfe167.htm" />
+      <HelpTOCNode Id="1ebc5666-fec8-4618-b0b8-052877431bfe" Title="TResultDetailData Fields" Url="html/d9ee7e8a-65c5-f220-53c2-8942888d2558.htm">
+        <HelpTOCNode Title="CreateTime Field" Url="html/ba1eeaca-a6ff-4be5-fe25-05a41eb12354.htm" />
+        <HelpTOCNode Title="fileFullPath Field" Url="html/7dd437f5-1a9d-0355-4107-631ff453959c.htm" />
+        <HelpTOCNode Title="FunctionID Field" Url="html/622ae1b9-a6fb-f2b6-83bf-f26d716e34e3.htm" />
+        <HelpTOCNode Title="Id Field" Url="html/286577ef-38f4-bef5-c09c-14cdf3880d97.htm" />
+        <HelpTOCNode Title="Instrument Field" Url="html/f188279f-1a67-71e2-1406-242a82a9a81a.htm" />
+        <HelpTOCNode Title="MeterID Field" Url="html/ffd14941-7b79-1723-6fc5-ab4dd0a3b5e7.htm" />
+        <HelpTOCNode Title="Name Field" Url="html/efac03eb-cde1-cc3e-73d8-aba683d789f7.htm" />
+        <HelpTOCNode Title="Path Field" Url="html/eb7284ff-b845-9674-6263-a0c9e5748b44.htm" />
+        <HelpTOCNode Title="ResultID Field" Url="html/bedfccb6-d254-e1ee-db61-d2fc657b39ad.htm" />
+        <HelpTOCNode Title="Status Field" Url="html/6f5b91cf-6a42-e91e-7e7c-f744a97ddae9.htm" />
+        <HelpTOCNode Title="TemplateID Field" Url="html/a4240ff7-fc14-2fe0-9145-d342c15718a7.htm" />
+        <HelpTOCNode Title="TemplateName Field" Url="html/00acae53-0852-4555-06c1-d22a4f105924.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="e2e92be3-362c-4642-9b8a-be1e9b87b158" Title="TUserData Class" Url="html/d357cbac-437b-8e5a-f114-70ac7a5e3c00.htm">
+      <HelpTOCNode Title="TUserData Constructor " Url="html/1a45f50f-fa01-f046-ec2f-18c0893c5cc9.htm" />
+      <HelpTOCNode Title="TUserData Methods" Url="html/26c5323d-2dc2-59f8-05ee-9a7e2ee9dc08.htm" />
+      <HelpTOCNode Id="b8fe1528-8851-4d49-a496-88ad6dbbf7f4" Title="TUserData Fields" Url="html/9d9f637f-7dd9-617d-c969-e9a996d37945.htm">
+        <HelpTOCNode Title="FolderPath Field" Url="html/d94d6db5-8486-4398-5e28-049d13cb98d2.htm" />
+        <HelpTOCNode Title="Id Field" Url="html/f6f3d0c6-19ce-a0b8-a9d1-6c2f63b16c6f.htm" />
+        <HelpTOCNode Title="Level Field" Url="html/be1e6b33-31b4-b819-fdac-ac8f367b6703.htm" />
+        <HelpTOCNode Title="Name Field" Url="html/8d1a79fb-2cd0-db44-0de8-80e550859cb4.htm" />
+        <HelpTOCNode Title="Password Field" Url="html/8b044ebb-5ff1-5f83-83fc-fcfb2e9f028f.htm" />
+        <HelpTOCNode Title="PasswordHint Field" Url="html/0fbef6be-45f6-3f82-b50e-e581497d4d5d.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>
